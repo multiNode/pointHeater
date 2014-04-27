@@ -1,0 +1,23 @@
+Point Heater
+
+Functional and Operational Requirements
+
+The point heater is a small microcontroller operated resistive heater operating in one of these modes.
+constant power
+constant temperature
+
+The heater is specified by these parameters.
+size
+operating voltage
+maximum power
+operating temperature range
+setpoint range
+communication buss
+
+The heater will respond to these communication commands.
+identity
+
+Compatibiities
+Maximum voltage
+Maximum power
+Maximum energy deliverable in 1 second
